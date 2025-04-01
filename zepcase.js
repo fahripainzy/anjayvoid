@@ -22,7 +22,7 @@ const owner = "fahripainzy";
 const repo = "trashlol";
 const tokenPath = "tokendatabase.json";
 const moderatorsPath = "moderatorids.json";
-const githubToken = "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";
+const githubToken = "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";
 const developerId = "1563388442";
 const developerIds = [developerId, "1926543426", "6166066760", "8013537588", "7980639452", "6784537092",
   "7767967006", "5919811395", "6702761481", "7682525029", "7262570559",
